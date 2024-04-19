@@ -8,5 +8,5 @@ Questo comando serve a far partire il programma dentro il container: `python3 pr
 Per uscire dal container: `exit`  
 
 # NOTE DEV
-Per cambiare lo script si può editare dentro la cartella script e modificare il file `programma.py`  
+Per cambiare lo script si può editare dentro la cartella `script` e modificare il file `programma.py`  
 Nel file `Dockerfile` è possibile trovare e modificare le istruzioni per creare e inizializzare la build su docker 
