@@ -1,0 +1,1 @@
+Ciao Federico ricordati di pullare sempre ogni volta che accedi alla tua repo in locale 
