@@ -1,5 +1,5 @@
 # Calcolatore dei segni zodiacali cinesi
-## Un calcolatore che, inserendo il proprio anno di nascita, ci ridarà l'animale del nostro anno e ci dirà anche l'animale del anno corrente
+## Un calcolatore che, inserendo il proprio anno di nascita, ci ridarà l'animale del nostro anno e ci dirà anche l'animale del anno corrente.
 ## Per usare il nostro calcolatore:
   
 -Questo comando serve per copiare e creare l'immagine per il container: `docker build -t NOME_CHE_VUOI:VERSIONE_CHE_VUOI https://github.com/Noteram98/Docker_Test.git` 
